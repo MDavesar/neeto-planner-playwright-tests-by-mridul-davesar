@@ -1,0 +1,12 @@
+{
+  "name": "neeto-planner-playwright-tests-by-mridul-davesar",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/MDavesar/neeto-planner-playwright-tests-by-mridul-davesar.git",
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.43.1",
+    "@types/node": "^20.12.7"
+  },
+  "scripts": {}
+}
